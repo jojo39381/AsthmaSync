@@ -1,0 +1,13 @@
+{
+  "name": "AsthmaSync",
+  "displayName": "AsthmaSync",
+  "expo": {
+    "name": "AsthmaSync",
+    "slug": "AsthmaSync",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": ""
+  }
+}
